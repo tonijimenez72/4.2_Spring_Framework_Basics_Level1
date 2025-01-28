@@ -51,7 +51,7 @@ We have an entity called "Fruit", which has the following properties:
 * String name
 * int weightInKilograms
 
-Using the JPA specification, you will have to persist this entity to an H2 database, following the MVC pattern. For this, depending on the main Package, you will create a package structure, where you will place the classes you need:
+Using the JPA specification, we will have to persist this entity to an H2 database, following the MVC pattern. For this, depending on the main Package, we will create a package structure, where we will place the classes we need:
 
  * cat.itacademy.s04.t02.n01.controllers
  * cat.itacademy.s04.t02.n01.model
