@@ -1,8 +1,4 @@
 ### 4.2_Spring_Framework_Basics_Level1
-In this task you will do a CRUD (Create, Read, Update, Delete) with 3 different databases.
-
-We will learn how to correctly use HTTP verbs and how to manage response codes.
-
 ## CRUD exercise with H2
 
 Access the page ->https://start.spring.io/, and generate a Spring boot project with the following characteristics:
